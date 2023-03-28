@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tudor Andrei a first year student at TUDelft
+- 👋 Hi, I’m Tudor Andrei a second year student at TUDelft
 - 👀 I’m interested in C++, Java, Web Dev 
 - 📫 How to reach me: 
      - email: tudor.andrei2003@gmail.com
